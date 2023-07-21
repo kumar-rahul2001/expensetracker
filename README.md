@@ -7,8 +7,9 @@
 #### `HTML` `CSS` `JavaScript` `React`
 
 #### Screenshot-1
-
+![expense tracker 2](https://github.com/kumar-rahul2001/expensetracker/assets/90920811/61511db8-442b-47dd-b10d-c7fd579196d7)
 #### Screenshot-2
+![expense tracker 1](https://github.com/kumar-rahul2001/expensetracker/assets/90920811/3f8c926f-1709-4474-8985-129d5e212f3f)
 
 ### Available Scripts
 
